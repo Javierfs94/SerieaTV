@@ -1,0 +1,5 @@
+CARTA DE PAGO
+{{nombre}}
+Cuota mensual por la suscripción a RedFilm.
+Importe: 10€
+{{fecha}}
