@@ -1,2 +1,3 @@
 # SeriesTV
-Proyecto para practicar PHP
+
+Project to practice PHP
